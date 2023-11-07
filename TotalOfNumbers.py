@@ -2,7 +2,6 @@ total=0
 i = 1
 
 while True:
-
      while True:
           number = eval (input ("how many consecutive numbers do you want to sum? - "))
                
