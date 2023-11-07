@@ -12,8 +12,8 @@ while True:
             break
             
     while number >= 1 :
-        a=input("")
-        number=number-1
+        a = input("")
+        number = number-1
         result = result + int(a)
             
     print("calculating total... \n")
