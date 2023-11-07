@@ -1,4 +1,4 @@
-SimplePythonProjects
+#SimplePythonProjects
 
 * <a href="https://github.com/asametulvi/simple-python-projects/blob/main/FactorsOfNumber.py">Factors of a Number</a> -- Finds factors of a number
 * <a href="https://github.com/asametulvi/simple-python-projects/blob/main/PrimeNumberQuery.py">Prime Number Query</a> -- Queries a number that is prime number or not
