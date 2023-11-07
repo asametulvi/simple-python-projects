@@ -6,7 +6,7 @@ while True:
      while True:
           number = eval (input ("how many consecutive numbers do you want to sum? - "))
                
-          if (number <= 1):
+          if (number < 1):
                print ("\nenter a number which is greater than 1 \n")
                continue
           else:

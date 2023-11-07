@@ -3,7 +3,8 @@ from time import sleep
 while True:
     while True:
         number = eval (input ("how many consecutive numbers do you want to sum? - "))
-        result = 0    
+        result = 0   
+         
         if (number <= 1):
             print ("\nenter a number which is greater than 1 \n")
             continue
