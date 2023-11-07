@@ -5,6 +5,11 @@ while True:
     number = eval(input("how many numbers do you want to add? - "))
     result = 0
 
+    if (number == 1):
+        print("enter 1 number")
+    elif (number > 1):
+        print("enter {number} numbers".format(number=number))
+    
     while number >= 1 :
         a=input("")
         number=number-1
